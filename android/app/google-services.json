@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "589458496221",
+    "project_id": "way-c10e7",
+    "storage_bucket": "way-c10e7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589458496221:android:1bb0efdf08e6461d5e9934",
+        "android_client_info": {
+          "package_name": "com.digitcom.e_concierge_tourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589458496221-7l37j9avqih3931b4es31a7g22kktcjl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitcom.e_concierge_tourism",
+            "certificate_hash": "ce27486541646de6a7f49fca7c2819439a6e8524"
+          }
+        },
+        {
+          "client_id": "589458496221-b38po0v3nb133afpg6orql4k0ccdticb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digitcom.e_concierge_tourism",
+            "certificate_hash": "0aa16bddc3ee4b90d5a386b86bec129175a77175"
+          }
+        },
+        {
+          "client_id": "589458496221-citmsbt728ei0ln51p8etsqn9stggqim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDT4scJ75-GIlqf6eQqdWoO5BI2sgFi4-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589458496221-citmsbt728ei0ln51p8etsqn9stggqim.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589458496221-7hb4a8mto1qh4rqsajvhu7cd6vjdqs5d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.digitcom.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
